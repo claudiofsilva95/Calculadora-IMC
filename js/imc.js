@@ -33,4 +33,10 @@ function calcular() {
             }
         }
     }
+    nome.value = ''
+    nome.focus()
+    alturatxt.value = ''
+    altura.focus()
+    pesotxt.value = ''
+    pesotxt.focus()
 }
